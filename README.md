@@ -65,3 +65,5 @@ This project performs a bending analysis of a simply supported rectangular plate
 - Strain energy convergence plot.
 
 ---
+
+*For academic use in AE334 or similar courses. Contributions and suggestions are welcome!*
